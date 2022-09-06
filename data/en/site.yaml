@@ -1,0 +1,11 @@
+# Copyright Notice
+copyright: © 2020 Copyright.
+
+# Meta description for your site.  This will help the search engines to find your site.
+description: Harvey Angel Resume.
+
+# Specify OpenGraph Headers
+openGraph:
+  title: Mr. Angel
+  type: website
+  description: Portfolio of Mr. Angel.

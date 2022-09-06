@@ -1,0 +1,24 @@
+# section information
+section:
+  name: Suitable Roles (A+)
+  id: achievements
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: Help Desk Technician
+  image: /images/sections/projects/help-desk-technician.jpg
+  summary: __Source__ - _https://www.fieldengineer.com/skills/deployment-support-engineer_
+- title: Desktop Support Specialist
+  image: /images/sections/projects/desktop-support-specialist.jpg
+  summary: __Source__ - _https://www.thebalancecareers.com/tech-support-skills-list-2063774_
+- title: Associate Network Engineer
+  image: /images/sections/projects/associate-network-engineer.jpg
+  summary: __Source__ - _https://www.fieldengineer.com/skills/network-support-technician_
+- title: Junior sysadmin
+  image: /images/sections/projects/sysadmin.jpg
+  summary: _(jk I'd love to be a sysadmin at your business)_

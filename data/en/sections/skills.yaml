@@ -1,0 +1,54 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+#- name: Kubernetes
+#  logo: /images/sections/skills/kubernetes.png
+#  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+#  url: "https://kubernetes.io/"
+
+#- name: Go Development
+#  logo: /images/sections/skills/go.png
+#  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+#  url: "https://golang.org/"
+
+
+- name: Python 3
+  logo: /images/sections/skills/python3.png
+  summary: "Confident with syntax for problem solving/computation, in addition to writing scripts using 3rd party modules."
+  url: "https://www.python.org/"
+
+- name: C++
+  logo: /images/sections/skills/c++.png
+  summary: "Know basic C/C++ programming used for contest programming and problem solving, used in competitive programming / coding challenges on platforms like [hackerrank](https://www.hackerrank.com/) service. Have also used c++ to program microchips via the [Arduino IDE](https://www.arduino.cc/en/software)."
+
+- name: bash
+  logo: /images/sections/skills/bash-icon.png
+  summary: "As a Linux daily driver I am confident with all GNU tools and other common CLI utilities in addition to the bash programming language for shell scripts."
+  url: "https://www.gnu.org/software/bash/"
+
+- name: Cloud Computing
+  logo: /images/sections/skills/cloud.png
+  summary: "Experience deploying and maintaing _headless_ installions using Linode & AWS in addition to performing rigorous security practices --- (__Closing Ports__ | [unattended-upgrades](https://github.com/mvo5/unattended-upgrades) | __implicit deny Firewall__)."
+
+#- name: Docker
+#  logo: /images/sections/skills/docker.svg
+#  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+#  url: "https://www.docker.com/"
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Familiar with git-based development and the necessary commands using [starship](https://starship.rs/) bash prompt for optimal workflow, with github experience."
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Have been daily driving [Arch Linux](https://archlinux.org/) for the past 2 years and counting, granting me extensive knowledge of the Linux kernel and web hosting solutions using GNU/Linux."
