@@ -3,88 +3,51 @@ section:
   name: Education
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
-  enable: false
-  weight: 4
+  enable: true
+  weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
-  icon: fa-microscope
-  timeframe: 2016-2020
-  institution:
-    name: ABC University of Technology
-    url: "#"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.6
-    outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-    url: "#"
-- name: B.Sc. in Computer Science & Engineering
+
+- name: Diploma of Information Technology (Advanced Networking and Cloud Engineering)
   icon: fa-graduation-cap
-  timeframe: 2012-2016
+  timeframe: (IN PROGRESS)
   institution:
-    name: University of XYZ
-    url: "#"
+    name: TAFE Queensland
+    url: https://tafeqld.edu.au/course/19/19032/diploma-of-information-technology#important-information-section
   grade: #(optional)
-    scale: CGPA
-    achieved: 3.5
-    outOf: 4
+    scale: Semester
+    achieved: 1
+    outOf: 2
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
-    collapseAfter: 3
+    showGrades: false
+    collapseAfter: 10
     courses:
-    - name: Data Structures and Algorithm
+    - name: ICTNWK536 - Plan, implement and test enterprise communication solutions
+    - name: ICTNWK539 - Design and Implement an Integrated Server Solution
       achieved: 3.75
       outOf: 4
-    - name: Network Security
+    - name: ICTNWK540 - Design, build and test network servers
       achieved: 3.80
       outOf: 4
-    - name: Operating System
+    - name: ICTNWK542 - Install, operate and troubleshoot medium enterprise routers
       achieved: 3.5
       outOf: 4
-    - name: Artificial Intelligent
+    - name: ICTNWK543 - Install, operate and troubleshoot medium enterprise switches
       achieved: 3.75
       outOf: 4
-  publications: #(optional)
+    - name: ICTNWK557 - Configure and manage advanced virtual computing environments
+    - name: ICTNWK559 - Install an enterprise virtual computing environment
+    - name: ICTICT517 - Match ICT needs with the strategic direction of the organisation
+    - name: BSBXCS402 - Promote workplace cyber security awareness and best practices
+    - name: BSBCRT512 - Originate and develop concepts
+  publication: #(optional)
   - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     url: "#"
   - title: Fusce eu augue ut odio porttitor pulvinar.
     url: "#"
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Higher Secondary School Certificate
-  icon: fa-university
-  timeframe: 2010-2012
-  institution:
-    name: MST College of Science
-    url: "#"
-  grade: #(optional)
-    scale: GPA
-    achieved: 5
-    outOf: 5
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Secondary School Certificate
-  icon: fa-school
-  timeframe: 2005-2010
-  institution:
-    name: JK School of Science
-  grade: #(optional)
-    scale: GPA
-    achieved: 4.5
-    outOf: 5
+  extracurricularActivitie: #(optional) add "s" at end
+  - test

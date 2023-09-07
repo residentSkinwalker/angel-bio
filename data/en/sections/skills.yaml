@@ -24,20 +24,20 @@ skills:
 
 - name: Python 3
   logo: /images/sections/skills/python3.png
-  summary: "Confident with syntax for problem solving/computation, in addition to writing scripts using a variety of python modules with everything from [fernet encryption](https://cryptography.io/en/latest/fernet/) to [requests](https://pypi.org/project/requests/)."
+  summary: "Confident with syntax for problem solving / computation, in addition to writing scripts using a variety of Python modules with everything from [fernet encryption](https://cryptography.io/en/latest/fernet/) to [requests](https://pypi.org/project/requests/)."
 
 - name: C++
   logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming used for contest programming and problem solving, used in competitive programming / coding challenges on platforms like [hackerrank](https://www.hackerrank.com/) service. Have also used c++ to program microchips via the [Arduino IDE](https://www.arduino.cc/en/software)."
+  summary: "Know basic C/C++ syntax used for problem-solving / coding challenges on platforms like [HackerRank](https://www.hackerrank.com/). Have also used C++ to program microchips via the [Arduino IDE](https://www.arduino.cc/en/software)."
 
 - name: bash
   logo: /images/sections/skills/bash-icon.png
-  summary: "As a Linux daily driver I am confident with all GNU tools and other common CLI utilities & the bash programming language for shell scripts."
+  summary: "As a Linux daily driver, I am confident with the `bash` programming language for shell scripting in Unix-based OSes."
   url: "https://www.gnu.org/software/bash/"
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
-  summary: "Experience deploying and maintaing _headless_ installions using [Linode](https://www.linode.com/), [Azure](https://azure.microsoft.com/) & [AWS](https://aws.amazon.com/) in addition to performing rigorous security practices --- (__Closing Ports__ | [unattended-upgrades](https://github.com/mvo5/unattended-upgrades) | __implicit deny Firewall__)."
+  summary: "Experience deploying and maintaining _headless_ installations using [Linode](https://www.linode.com/), [Azure](https://azure.microsoft.com/) & [AWS](https://aws.amazon.com/) in addition to appling security policies for remote access --- (__Closing Ports__ | [unattended-upgrades](https://github.com/mvo5/unattended-upgrades) | __implicit deny Firewall__)."
 
 #- name: Docker
 #  logo: /images/sections/skills/docker.svg
@@ -46,20 +46,20 @@ skills:
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Familiar with git-based development and the necessary commands using [starship](https://starship.rs/) bash prompt for optimal workflow, with github experience."
+  summary: "Familiar with git-based development and the necessary commands using [starship](https://starship.rs/) bash prompt for optimal workflow, with GitHub experience."
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Have been daily driving [Arch Linux](https://archlinux.org/) for the past 2 years and counting, granting me extensive knowledge of the Linux kernel and web hosting solutions using GNU/Linux."
+  summary: "Have been daily driving [Arch Linux](https://archlinux.org/) for the past 3 years and counting, granting me extensive knowledge on deploying and maintaining Desktop & Server Unix-based systems."
 
 - name: Active Directory
   logo: /images/sections/skills/AD.svg
-  summary: "Experience using [Active Directory Domain Services](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview) (AD DS) to manage a fleet of virtualized systems inside a home-lab environment."
+  summary: "A solid foundation with [Active Directory Domain Services](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview) (AD DS) for general system administration. Deploying `group policy`, setting scheduled tasks / `backup` in a domain environment, `WSUS` Patches, etc."
   #url: "https://kubernetes.io/"
 
 - name: Windows Server
   logo: /images/sections/skills/windows-server.svg
-  summary: "Knowledge & experience with deploying and using Windows Server 2016-2022's graphical suite of utilites."
+  summary: "Knowledge & experience with deploying and using Windows Server 2016-2022's graphical and CLI suite of utilities."
 
 - name: Office 365
   logo: /images/sections/skills/Microsoft_Office_logo.png

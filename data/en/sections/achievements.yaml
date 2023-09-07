@@ -1,8 +1,8 @@
 # section information
 section:
-  name: Suitable Roles (A+)
+  name: Suitable Roles
   id: achievements
-  enable: true
+  enable: false
   weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
